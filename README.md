@@ -68,6 +68,6 @@ A detailed project report including code explanation, architecture, and results 
 👩‍💻 Author
 Pudari Vyshnavi
 AI & Machine Learning Enthusiast | Full Stack Developer
-📧 Email:vyshnavipudari2506@gmail.com
-🌐 GitHub: PudariVyshnavi2506
+📧 Email:pudarivyshnavi@gmail.com
+🌐 GitHub: pudarivyshnavi
 ⭐ If you like this project, don’t forget to star it on GitHub!
