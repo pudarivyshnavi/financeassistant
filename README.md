@@ -71,8 +71,3 @@ AI & Machine Learning Enthusiast | Full Stack Developer
 📧 Email:vyshnavipudari2506@gmail.com
 🌐 GitHub: PudariVyshnavi2506
 ⭐ If you like this project, don’t forget to star it on GitHub!
-
----
-
-Would you like me to **personalize it further** (for example, add your college name, internship title, or GitHub username in the README)?  
-If yes, please share those details and I’ll tailor it perfectly for your submission.
